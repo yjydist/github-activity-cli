@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github-activity-cli/cmd"
 	"log"
+
+	"github.com/yjydist/github-activity-cli/cmd"
 )
 
 func main() {
